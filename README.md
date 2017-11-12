@@ -12,7 +12,11 @@ represent the part of the underlying idea behind fraudulent ICOs or Initial Coin
 malicious individuals raise cryptocurreny funding using smart contracts through investors,
 in false promises of creating a new cryptocurrency with "special features." Those said malicious 
 individuals would then act in a classic manner of a Ponzi scheme and take the largest fundings and leave.
+On another intresting note, by using smart contracts, it implies that this application does not need a database, as the 
+Rinkeby blockchain records all test transactions, as this app is managed without a central leader.
 
+The purpose of this porject is to teach a lesson in why we should be more careful in evaluating ICOs or investing
+in new cyrptocurrencies, adn question the true value of such whe
 
 <b>Tools/Languages involved:</b>
 - Solidity (Smart contract oriented programming language) 
@@ -20,6 +24,16 @@ individuals would then act in a classic manner of a Ponzi scheme and take the la
 - Rinkeby test network
 - Javascript (TBA)
 - HTML/CSS (TBA)
+
+<b>Note:</b>
+This dApp is still WIP, as it was first developed at ETHWaterloo, a Waterloo-based Ethereum dApp hackathon.
+The full scale of this project is meant to be a web application, as currently only the smart contract backend code
+is defined.
+Features to add:
+- UI (need to learn JS)
+- Bugs in transferring Ether to scheme_leader
+- Debate about time lag mechanism between transactions
+- Testing in geth/nodejs 
 
 
 <b>Instructions:</b>
