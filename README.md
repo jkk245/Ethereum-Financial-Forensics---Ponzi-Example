@@ -1,6 +1,7 @@
 # Ethereum-Financial-Forensics---Ponzi-Example
 
 <b>Synopsis:</b>
+
 Ethereum Financial Forensics - Ponzi Example is a decentralized application (dApp)
 that simulates the application of a Ponzi scheme using test Ether and smart contract exchanges. 
 
