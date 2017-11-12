@@ -1,19 +1,19 @@
 # Ethereum-Financial-Forensics---Ponzi-Example
 
-Synopsis:
+<b>Synopsis:</b>
 Ethereum Financial Forensics - Ponzi Example is a decentralized application (dApp)
-demonstration of the application of a Ponzi scheme using smart contract exchanges. 
+that simulates the application of a Ponzi scheme using test Ether and smart contract exchanges. 
 
 
 It involves using a (Fake Ether)/Rinkeby TestNet distribution of Ether.
 Interesting features to note that at its simplest form, this smart contract could 
-represent the underlying idea behind fraudlent ICOs or Initial Coin Offerings, where 
+represent the part of the underlying idea behind fraudulent ICOs or Initial Coin Offerings, where 
 malicious individuals raise cryptocurreny funding using smart contracts through investors,
 in false promises of creating a new cryptocurrency with "special features." Those said malicious 
 individuals would then act in a classic manner of a Ponzi scheme and take the largest fundings and leave.
 
 
-Tools/Languages involved:
+<b>Tools/Languages involved:</b>
 - Solidity (Smart contract oriented programming language) 
 - Metamask
 - Rinkeby test network
@@ -21,7 +21,7 @@ Tools/Languages involved:
 - HTML/CSS (TBA)
 
 
-Instructions:
+<b>Instructions:</b>
 (I apologize for the complexity, I will write and update a more succint and better detailed tutorial soon)
 1) Download Metamask, a chrome extension that acts as an Ethereum Wallet, if you do not already own an account
 IMPORTANT: Make sure to set your network to Rinkeby test network, we are experimenting with test Ethereum
