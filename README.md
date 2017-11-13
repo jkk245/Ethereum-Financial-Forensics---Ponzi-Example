@@ -7,14 +7,18 @@ that simulates the application of a Ponzi scheme using test Ether and smart cont
 
 The purpose of this project is to show behind-the-scenes basic contract-to-contract Ether exchanges within a Ponzi scheme, and why we should be more careful when evaluating ICOs and investing in cryptocurrency ventures. One should question the true value of what a venture firm would offer, along with its legal and regulatory aspects, financial risk, blockchain security, and much more.
 
-More useful articles detailed crytocurrency fraud on the rise: \n
+<br/>
+
+More useful articles detailed crytocurrency fraud on the rise: <br/>
 https://finance.yahoo.com/news/rise-cryptocurrency-ponzi-schemes-160152688.html 
 
-More info on determining the ICO value of cryptocurrency-backed ventures: \n
+More info on determining the ICO value of cryptocurrency-backed ventures:  <br/>
 https://medium.com/blockchain-media/how-to-evaluate-an-initial-cryptocurrency-offering-ico-1bc238cff0ae
 
-Addtional links on terminlogy and general understanding of Ethereum, and blockchains: \n
+Addtional links on terminlogy and general understanding of Ethereum, and blockchains: <br/>
 https://www.coindesk.com/information/what-is-a-decentralized-application-dapp/
+
+<br/>
 
 <b>Some useful defintions:</b>
 - Initial Coin Offering (ICO):
@@ -23,6 +27,7 @@ An unregulated means by which funds are raised for a new cryptocurrency venture.
 - Ponzi Scheme:
 An investment swindle in which high profits are promised from fictitious sources and early investors are paid off with funds raised from later ones.
 
+<br/>
 This app involves using a (Fake Ether)/Rinkeby TestNet distribution of Ether.
 Interesting features to note that at its simplest form, this smart contract
 represents part of the underlying idea behind fraudulent ICOs or Initial Coin Offerings, where 
@@ -31,7 +36,7 @@ in false promises of creating a new cryptocurrency with "special features." Thos
 individuals would then act in a classic manner of a Ponzi scheme and take the largest fundings and leave.
 On another intresting note, by using smart contracts, it implies that this application does not need a database, as the 
 Rinkeby blockchain records all artificial transactions, as this app is managed without a central leader.
-
+<br/>
 
 <b>Tools/Languages involved:</b>
 - Solidity (Smart contract oriented programming language) 
@@ -40,6 +45,8 @@ Rinkeby blockchain records all artificial transactions, as this app is managed w
 - Remix IDE (Online test network compilier for Solidity smart contracts)
 - Javascript (TBA)
 - HTML/CSS (TBA)
+
+<br/>
 
 <b>Note:</b>
 This dApp is still WIP, as it was first developed at ETHWaterloo, a Waterloo-based Ethereum dApp hackathon.
@@ -51,6 +58,7 @@ Features to add:
 - Debate about time lag mechanism between transactions
 - Testing in geth/nodejs 
 
+<br/>
 
 <b>Instructions for demonstration of the smart contract on Remix IDE:</b>
 (I apologize for the complexity, I will write and update a more succint and better detailed tutorial soon)
