@@ -9,8 +9,9 @@ The purpose of this project is to show behind-the-scenes basic contract-to-contr
 
 <br/>
 
-More useful articles detailing crytocurrency fraud on the rise: <br/>
+More useful articles detailing crytocurrency fraud/involved legal issues on the rise: <br/>
 https://finance.yahoo.com/news/rise-cryptocurrency-ponzi-schemes-160152688.html 
+https://www.reuters.com/article/us-bitcoin-funding-tezos-specialreport/special-report-backroom-battle-imperils-230-million-cryptocurrency-venture-idUSKBN1CN35K
 
 More info on determining the ICO value of cryptocurrency-backed ventures:  <br/>
 https://medium.com/blockchain-media/how-to-evaluate-an-initial-cryptocurrency-offering-ico-1bc238cff0ae
