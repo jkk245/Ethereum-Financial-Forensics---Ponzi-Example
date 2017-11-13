@@ -9,7 +9,7 @@ The purpose of this project is to show behind-the-scenes basic contract-to-contr
 
 <br/>
 
-More useful articles detailed crytocurrency fraud on the rise: <br/>
+More useful articles detailing crytocurrency fraud on the rise: <br/>
 https://finance.yahoo.com/news/rise-cryptocurrency-ponzi-schemes-160152688.html 
 
 More info on determining the ICO value of cryptocurrency-backed ventures:  <br/>
@@ -28,14 +28,8 @@ An unregulated means by which funds are raised for a new cryptocurrency venture.
 An investment swindle in which high profits are promised from fictitious sources and early investors are paid off with funds raised from later ones.
 
 <br/>
-This app involves using a (Fake Ether)/Rinkeby TestNet distribution of Ether.
-Interesting features to note that at its simplest form, this smart contract
-represents part of the underlying idea behind fraudulent ICOs or Initial Coin Offerings, where 
-malicious individuals/firms raise cryptocurreny funds using smart contracts through investors,
-in false promises of creating a new cryptocurrency with "special features." Those said malicious 
-individuals would then act in a classic manner of a Ponzi scheme and take the largest fundings and leave.
-On another intresting note, by using smart contracts, it implies that this application does not need a database, as the 
-Rinkeby blockchain records all artificial transactions, as this app is managed without a central leader.
+This app involves the use of a (Fake Ether)/Rinkeby TestNet distribution of Ether.Interesting features to note that at its simplest form, this smart contract represents part of the underlying idea behind fraudulent ICOs or Initial Coin Offerings, where malicious individuals/firms raise cryptocurreny funds using smart contracts through investors,
+in false promises of creating a new cryptocurrency with "special features." Those said malicious individuals would then act in a classic manner of a Ponzi scheme and take the largest fundings and leave. On another note, by using smart contracts, this application does not need a database, as the Rinkeby blockchain records all artificial transactions, as thus the app is managed without a central leader/"decentalized".
 <br/>
 
 <b>Tools/Languages involved:</b>
