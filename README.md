@@ -5,6 +5,12 @@
 Ethereum Financial Forensics - Ponzi Example is a decentralized application (dApp)
 that simulates the application of a Ponzi scheme using test Ether and smart contract exchanges. 
 
+<b>Some useful defintions:</b>
+- Initial Coin Offering (ICO):
+An unregulated means by which funds are raised for a new cryptocurrency venture. An Initial Coin Offering (ICO) is used by startups to     bypass the rigorous and regulated capital-raising process required by venture capitalists or banks. In an ICO campaign, a percentage of the cryptocurrency is sold to early backers of the project in exchange for legal tender or other cryptocurrencies, but usually for Bitcoin.
+
+-Ponzi Scheme:
+
 
 It involves using a (Fake Ether)/Rinkeby TestNet distribution of Ether.
 Interesting features to note that at its simplest form, this smart contract
@@ -15,7 +21,7 @@ individuals would then act in a classic manner of a Ponzi scheme and take the la
 On another intresting note, by using smart contracts, it implies that this application does not need a database, as the 
 Rinkeby blockchain records all artificial transactions, as this app is managed without a central leader.
 
-The purpose of this porject is to show basic contract-to-contract exchanges within a Ponzi scheme, and why we should be more careful 
+The purpose of this project is to show basic contract-to-contract exchanges within a Ponzi scheme, and why we should be more careful 
 when evaluating ICOs and investing in cryptocurrency ventures. One should question the true value of what a venture firm would offer,
 along with its legal and regulatory aspects, financial risk, blockchain security, and much more.
 
