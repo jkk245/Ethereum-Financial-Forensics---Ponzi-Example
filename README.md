@@ -7,21 +7,24 @@ that simulates the application of a Ponzi scheme using test Ether and smart cont
 
 
 It involves using a (Fake Ether)/Rinkeby TestNet distribution of Ether.
-Interesting features to note that at its simplest form, this smart contract could 
-represent the part of the underlying idea behind fraudulent ICOs or Initial Coin Offerings, where 
-malicious individuals raise cryptocurreny funding using smart contracts through investors,
+Interesting features to note that at its simplest form, this smart contract
+represents part of the underlying idea behind fraudulent ICOs or Initial Coin Offerings, where 
+malicious individuals/firms raise cryptocurreny funds using smart contracts through investors,
 in false promises of creating a new cryptocurrency with "special features." Those said malicious 
 individuals would then act in a classic manner of a Ponzi scheme and take the largest fundings and leave.
 On another intresting note, by using smart contracts, it implies that this application does not need a database, as the 
-Rinkeby blockchain records all test transactions, as this app is managed without a central leader.
+Rinkeby blockchain records all artificial transactions, as this app is managed without a central leader.
 
-The purpose of this porject is to teach a lesson in why we should be more careful in evaluating ICOs or investing
-in new cyrptocurrencies, adn question the true value of such whe
+The purpose of this porject is to show basic contract-to-contract exchanges within a Ponzi scheme, and why we should be more careful 
+when evaluating ICOs and investing in cryptocurrency ventures. One should question the true value of what a venture firm would offer,
+along with its legal and regulatory aspects, financial risk, blockchain security, and much more.
+
 
 <b>Tools/Languages involved:</b>
 - Solidity (Smart contract oriented programming language) 
 - Metamask
 - Rinkeby test network
+- Remix IDE (Online test network compilier for Solidity smart contracts)
 - Javascript (TBA)
 - HTML/CSS (TBA)
 
@@ -36,7 +39,7 @@ Features to add:
 - Testing in geth/nodejs 
 
 
-<b>Instructions:</b>
+<b>Instructions for demonstration of the smart contract on Remix IDE:</b>
 (I apologize for the complexity, I will write and update a more succint and better detailed tutorial soon)
 1) Download Metamask, a chrome extension that acts as an Ethereum Wallet, if you do not already own an account
 IMPORTANT: Make sure to set your network to Rinkeby test network, we are experimenting with test Ethereum
