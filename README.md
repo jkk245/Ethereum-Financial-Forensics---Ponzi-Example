@@ -9,7 +9,7 @@ that simulates the application of a Ponzi scheme using test Ether and smart cont
 - Initial Coin Offering (ICO):
 An unregulated means by which funds are raised for a new cryptocurrency venture. An Initial Coin Offering (ICO) is used by startups to     bypass the rigorous and regulated capital-raising process required by venture capitalists or banks. In an ICO campaign, a percentage of the cryptocurrency is sold to early backers of the project in exchange for legal tender or other cryptocurrencies, but usually for Bitcoin.
 
--Ponzi Scheme:
+- Ponzi Scheme:
 An investment swindle in which high profits are promised from fictitious sources and early investors are paid off with funds raised from later ones.
 
 It involves using a (Fake Ether)/Rinkeby TestNet distribution of Ether.
