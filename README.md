@@ -29,9 +29,8 @@ An investment swindle in which high profits are promised from fictitious sources
 
 <br/>
 This app involves the use of a (Fake Ether)/Rinkeby TestNet distribution of Ether.Interesting features to note that at its simplest form, this smart contract represents part of the underlying idea behind fraudulent ICOs or Initial Coin Offerings, where malicious individuals/firms raise cryptocurreny funds using smart contracts through investors,
-in false promises of creating a new cryptocurrency with "special features." Those said malicious individuals would then act in a classic manner of a Ponzi scheme and take the largest fundings and leave. On another note, by using smart contracts, this application does not need a database, as the Rinkeby blockchain records all artificial transactions, as thus the app is managed without a central leader/"decentalized".
+in false promises of creating a new cryptocurrency with "special features." Those said malicious individuals would then act in a classic manner of a Ponzi scheme and take the largest fundings and leave. On another note, by using smart contracts, this application does not need a database, as the Rinkeby blockchain records all artificial transactions, as thus the app is managed without a central leader/"decentralized". <br/>
 
-<br/>
 
 <b>Tools/Languages involved:</b>
 - Solidity (Smart contract oriented programming language) 
