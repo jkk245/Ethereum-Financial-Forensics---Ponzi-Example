@@ -7,13 +7,13 @@ that simulates the application of a Ponzi scheme using test Ether and smart cont
 
 The purpose of this project is to show behind-the-scenes basic contract-to-contract Ether exchanges within a Ponzi scheme, and why we should be more careful when evaluating ICOs and investing in cryptocurrency ventures. One should question the true value of what a venture firm would offer, along with its legal and regulatory aspects, financial risk, blockchain security, and much more.
 
-More useful articles detailed crytocurrency fraud on the rise:
+More useful articles detailed crytocurrency fraud on the rise: \n
 https://finance.yahoo.com/news/rise-cryptocurrency-ponzi-schemes-160152688.html 
 
-More info on determining the ICO value of cryptocurrency-backed ventures:
+More info on determining the ICO value of cryptocurrency-backed ventures: \n
 https://medium.com/blockchain-media/how-to-evaluate-an-initial-cryptocurrency-offering-ico-1bc238cff0ae
 
-Addtional links on terminlogy and general understanding of Ethereum, and blockchains:
+Addtional links on terminlogy and general understanding of Ethereum, and blockchains: \n
 https://www.coindesk.com/information/what-is-a-decentralized-application-dapp/
 
 <b>Some useful defintions:</b>
